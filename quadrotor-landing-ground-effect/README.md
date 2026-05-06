@@ -20,9 +20,9 @@ The control input is added to the equilibrium thrust needed to hover at the targ
 
 ## Files
 
-- `Project1.m`: Main simulation environment
-- `ControllerSun.m`: State-feedback landing controller
-- `EvaluateSun.m`: Runs 100 trials and computes success rate and average settling time
+- `simulate_quadrotor_landing.m`: Main simulation environment
+- `quadrotor_pd_controller.m`: State-feedback landing controller
+- `evaluate_quadrotor_controller.m`: Runs 100 trials and computes success rate and average settling time
 
 ## Results
 
