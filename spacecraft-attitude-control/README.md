@@ -23,9 +23,9 @@ A controllability matrix is computed for each linearized system. The first two e
 
 ## Files
 
-- `Project2.m`: Main spacecraft simulation environment
-- `ControllerSun.m`: Pole-placement state-feedback controller
-- `run_Project2_report.m`: Script for controllability analysis, gain computation, and report simulations
+- `simulate_spacecraft_attitude.m`: Main spacecraft simulation environment
+- `spacecraft_pole_placement_controller.m`: Pole-placement state-feedback controller
+- `generate_spacecraft_report_results.m`: Script for controllability analysis, gain computation, and report simulations
 
 ## Results
 
